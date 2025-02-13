@@ -17,4 +17,6 @@ Ventajas:
 Desventajas:
 •	Complejidad: La gestión de múltiples iteraciones y la evaluación constante pueden aumentar la complejidad del proyecto.
 •	Costos: Puede ser más costoso en comparación con otros modelos debido a la necesidad de evaluaciones y revisiones continuas.
-![image](https://github.com/user-attachments/assets/3ed6aa85-026a-4df1-a057-e8bc03470154)
+
+![image](https://github.com/user-attachments/assets/73bfcb8b-dfda-428c-8dcd-6db3ce908dbb)
+
