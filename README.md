@@ -1,5 +1,4 @@
-# des_imp
-Modelo de Desarrollo de Software en Espiral
+# Modelo de Desarrollo de Software en Espiral
 El modelo de desarrollo de software en espiral es una metodología que combina elementos del modelo de cascada y la iteración prototípica, permitiendo un enfoque más flexible y adaptable al desarrollo de software. Fue propuesto por Barry Boehm en 1986 y se caracteriza por su enfoque en la gestión de riesgos y la iteración continua.
 Características Principales:
 1.	Iterativo y Evolutivo: El desarrollo se realiza en ciclos repetitivos, llamados espirales, donde cada ciclo incluye las fases de planificación, análisis de riesgos, ingeniería y evaluación del cliente.
